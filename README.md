@@ -1,4 +1,4 @@
-# eCommerce Platform Project 
+# E-Commerce Platform Project 
 
 
 **Live App Demo** : [https://mern-shop-abxs.onrender.com/](https://mern-shop-abxs.onrender.com/)</br>
