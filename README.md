@@ -13,6 +13,7 @@ Note: Please be aware that Render's free tier will automatically shut down after
   - Password: admin123
 
 - **Live Customer Logins:**: [https://mern-shop-abxs.onrender.com/login](https://mern-shop-abxs.onrender.com/login)
+
   - John Doe
     - Email: john@email.com
     - Password: john123
